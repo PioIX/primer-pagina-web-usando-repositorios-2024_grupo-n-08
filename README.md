@@ -15,9 +15,10 @@ El objetivo de esta parte del tp es que los integrantes del grupo apliquen el wo
 
 [borrar esto y personalizar el readme con sus datos]
 
-## Grupo Nº: 99
+## Grupo Nº: 8
 ## Integrantes:
-* pepe
-* pepito
-* pepa
-* pepita
+* Ana Clara bonelli
+* Sofia Cariglino
+* Isabella Ferretti
+* Ailin Hardt
+* Guadalupe Langan
