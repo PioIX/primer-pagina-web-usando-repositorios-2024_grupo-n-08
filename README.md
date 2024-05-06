@@ -5,7 +5,7 @@
 ## Grupo Nº: 8
 ## Integrantes:
 * Ana Clara Bonelli
-* Sofía Cariglino :D
+* Sofía Cariglino :open_mouth:
 * Isabella Ferretti
 * Ailín Hardt
 * Guadalupe Langan
